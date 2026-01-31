@@ -1,0 +1,98 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/29.3.0 Chrome/140.0.7339.249 Electron/38.7.2 Safari/537.36" version="29.3.0">
+  <diagram name="第 1 页" id="vKAFjqSj4AriNv_WGyMW">
+    <mxGraphModel dx="984" dy="572" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="qFAKykL915Rl3_OpL2fS-6" edge="1" parent="1" source="qFAKykL915Rl3_OpL2fS-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="145" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qFAKykL915Rl3_OpL2fS-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Star" vertex="1">
+          <mxGeometry height="40" width="70" x="110" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qFAKykL915Rl3_OpL2fS-10" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="110" y="180" as="sourcePoint" />
+            <mxPoint x="110" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qFAKykL915Rl3_OpL2fS-11" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="180" y="180" as="sourcePoint" />
+            <mxPoint x="180" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qFAKykL915Rl3_OpL2fS-15" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="217.36" y="310" />
+              <mxPoint x="217.36" y="310" />
+            </Array>
+            <mxPoint x="217.36" y="300" as="sourcePoint" />
+            <mxPoint x="217.36" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qFAKykL915Rl3_OpL2fS-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Read All FloderNames (sring)MonPath,and pass to a list&amp;lt;string&amp;gt;&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="130" x="10" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="qFAKykL915Rl3_OpL2fS-21" edge="1" parent="1" source="qFAKykL915Rl3_OpL2fS-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qFAKykL915Rl3_OpL2fS-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Read All FloderNames (sring)SonPath,and pass to a list&amp;lt;string&amp;gt;" vertex="1">
+          <mxGeometry height="60" width="130" x="160" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="qFAKykL915Rl3_OpL2fS-14" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="ChoseMomPath&lt;br&gt;ChoseSonPath" vertex="1">
+          <mxGeometry height="60" width="120" x="85" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="qFAKykL915Rl3_OpL2fS-18" edge="1" parent="1" source="qFAKykL915Rl3_OpL2fS-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="330" y="410" />
+              <mxPoint x="330" y="410" />
+            </Array>
+            <mxPoint x="380" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qFAKykL915Rl3_OpL2fS-20" connectable="0" parent="qFAKykL915Rl3_OpL2fS-18" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="False" vertex="1">
+          <mxGeometry relative="1" x="0.2549" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qFAKykL915Rl3_OpL2fS-24" edge="1" parent="1" source="qFAKykL915Rl3_OpL2fS-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="217.5" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qFAKykL915Rl3_OpL2fS-26" connectable="0" parent="qFAKykL915Rl3_OpL2fS-24" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="True" vertex="1">
+          <mxGeometry relative="1" x="-0.1452" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qFAKykL915Rl3_OpL2fS-17" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="&lt;div&gt;if FloderName Include monther floderName&lt;/div&gt;" vertex="1">
+          <mxGeometry height="120" width="195" x="120" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="qFAKykL915Rl3_OpL2fS-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="marked the floderName red" vertex="1">
+          <mxGeometry height="60" width="120" x="380" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="qFAKykL915Rl3_OpL2fS-22" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="show the sonFloderNames in soft&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="140" x="340" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="qFAKykL915Rl3_OpL2fS-27" edge="1" parent="1" source="qFAKykL915Rl3_OpL2fS-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="217.5" y="670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qFAKykL915Rl3_OpL2fS-25" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Move the Floder to the MonPath&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="120" x="157.5" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="qFAKykL915Rl3_OpL2fS-28" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="marked the floderName Green" vertex="1">
+          <mxGeometry height="60" width="120" x="157.5" y="680" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

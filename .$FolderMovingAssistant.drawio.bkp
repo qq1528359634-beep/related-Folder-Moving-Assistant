@@ -1,0 +1,29 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/29.3.0 Chrome/140.0.7339.249 Electron/38.7.2 Safari/537.36" version="29.3.0">
+  <diagram name="第 1 页" id="vKAFjqSj4AriNv_WGyMW">
+    <mxGraphModel dx="826" dy="481" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="qFAKykL915Rl3_OpL2fS-6" edge="1" parent="1" source="qFAKykL915Rl3_OpL2fS-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="145" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qFAKykL915Rl3_OpL2fS-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Star" vertex="1">
+          <mxGeometry height="40" width="70" x="110" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qFAKykL915Rl3_OpL2fS-8" edge="1" parent="1" source="qFAKykL915Rl3_OpL2fS-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="145" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qFAKykL915Rl3_OpL2fS-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="ChosePath" vertex="1">
+          <mxGeometry height="60" width="120" x="85" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="qFAKykL915Rl3_OpL2fS-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="ChoseMomPath&lt;br&gt;ChoseSonPath" vertex="1">
+          <mxGeometry height="60" width="120" x="85" y="280" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
