@@ -21,7 +21,7 @@ namespace FolderMovingAssistant
         }
 
         #region Set source Path and destination Path
-        private void SelectMonPath_Click(object sender, RoutedEventArgs e)
+        private void SelectTargetPath_Click(object sender, RoutedEventArgs e)
         {
             FolderPath.destiPath = MyMethods.GetPath(targerPathBox);
             if (!string.IsNullOrWhiteSpace(FolderPath.destiPath))
@@ -31,7 +31,7 @@ namespace FolderMovingAssistant
 
 
         }
-        private void SelectSonPath_Click(object sender, RoutedEventArgs e)
+        private void SelectSourcePath_Click(object sender, RoutedEventArgs e)
         {   
             FolderPath.sourcePath = MyMethods.GetPath(sourcePathBox);
             if (!string.IsNullOrWhiteSpace(FolderPath.sourcePath) && FolderPath.sourcePath!= FolderPath.destiPath)

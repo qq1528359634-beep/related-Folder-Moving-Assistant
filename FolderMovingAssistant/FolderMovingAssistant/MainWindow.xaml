@@ -17,12 +17,12 @@
             <StackPanel>
                 <DockPanel Margin="0,5">
                     <TextBlock Text="Targer Path:" Width="80" />
-                    <Button Content="Select..." DockPanel.Dock="Right"  Click="SelectMonPath_Click" Width="110" Height="20"/>
+                    <Button Content="Select..." DockPanel.Dock="Right"  Click="SelectTargetPath_Click" Width="110" Height="20"/>
                     <TextBox x:Name="targerPathBox"  Margin="5,0" DockPanel.Dock="Left" AcceptsReturn="True"  IsReadOnly="True"   Text="Please Select Path"  />
                 </DockPanel>
                 <DockPanel Margin="0,5">
                     <TextBlock Text="Source Path:" Width="80"/>
-                    <Button Content="Select..." DockPanel.Dock="Right" Click="SelectSonPath_Click" Width="110" Height="20"/>
+                    <Button Content="Select..." DockPanel.Dock="Right" Click="SelectSourcePath_Click" Width="110" Height="20"/>
                     <TextBox x:Name="sourcePathBox" Margin="5,0" DockPanel.Dock="Left" AcceptsReturn="True"  IsReadOnly="True"   Text="Please Select Path"/>
                 </DockPanel>
             </StackPanel>
